@@ -75,6 +75,39 @@ Here's a guide for Windows, Linux, and macOS:
 
 Remember that LaTeX can be quite extensive, and the full installation (like `texlive-full` on Linux) may take a significant amount of disk space. If you are constrained by disk space, you can opt for a more basic installation and install additional packages as needed.
 
+### Customizing and Using the TeXtremeCV Template
+
+The TeXtremeCV template provides a robust framework for creating a professional CV in LaTeX. Here’s a summary of how to customize and use this template for your own CV:
+
+  Personal Information:
+  
+      Update your name, job title, contact details, and optional photo.
+      This forms the header of your CV, setting the tone for your professional persona.
+
+  Introduction:
+  
+      Craft a concise introduction, summarizing your professional background and objectives.
+
+  Skills and Languages:
+  
+      Highlight key skills and language proficiencies relevant to your career.
+
+  Professional Experience:
+  
+      Detail your most significant roles and achievements using \cventry.
+
+  Education:
+  
+      List your educational qualifications in a clear, chronological order.
+
+  Customizing GitHub and LinkedIn Links:
+  
+      At the bottom, links to your GitHub and LinkedIn profiles are included.
+      Replace the URLs in the \href{} tags with your own profile links.
+      For example, change https://github.com/yvanfocsa to your GitHub profile URL.
+      Similarly, update the LinkedIn URL to point to your LinkedIn profile.
+      These links are essential for providing a direct path to your professional online presence.
+
 <p align="right"><a href="#readme-top"></a></p>
 
 <!-- CONTACT -->
