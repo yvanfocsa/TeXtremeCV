@@ -50,7 +50,7 @@ Before you begin, ensure you have Python installed on your machine. You can down
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@0xCiroDiMarzio](https://twitter.com/0xCiroDiMarzio) - yvanfocsa@proton.me
+Yvan FOCSA - [@0xCiroDiMarzio](https://twitter.com/0xCiroDiMarzio) - yvanfocsa@proton.me
 
 Project Link: [https://github.com/yvanfocsa/TeXtremeCV](https://github.com/yvanfocsa/TeXtremeCV)
 
@@ -61,7 +61,7 @@ Project Link: [https://github.com/yvanfocsa/TeXtremeCV](https://github.com/yvanf
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Template: https://github.com/othneildrew
+* Template:  Jérôme Nicolle
 
 <p align="right"><a href="#readme-top"></a></p>
 
