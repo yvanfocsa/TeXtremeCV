@@ -26,13 +26,11 @@
   </p>
 </div>
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have a LaTeX distribution installed on your machine.
 
-### Installation
+## Installation
 
 To install LaTeX for working with a LaTeX project like TeXtremeCV, you need to follow different steps depending on your operating system.
 
@@ -75,7 +73,7 @@ Here's a guide for Windows, Linux, and macOS:
 
 Remember that LaTeX can be quite extensive, and the full installation (like `texlive-full` on Linux) may take a significant amount of disk space. If you are constrained by disk space, you can opt for a more basic installation and install additional packages as needed.
 
-### Customizing and Using the TeXtremeCV Template
+## Customizing and Using the TeXtremeCV Template
 
 The TeXtremeCV template provides a robust framework for creating a professional CV in LaTeX. Here’s a summary of how to customize and use this template for your own CV:
 
@@ -110,7 +108,10 @@ The TeXtremeCV template provides a robust framework for creating a professional 
 
 <p align="right"><a href="#readme-top"></a></p>
 
-<!-- CONTACT -->
+## Example
+
+[View My Document](Yvan_FOCSA_CV.pdf)
+
 ## Contact
 
 Yvan FOCSA - [@0xCiroDiMarzio](https://twitter.com/0xCiroDiMarzio) - yvanfocsa@proton.me
@@ -119,9 +120,6 @@ Project Link: [https://github.com/yvanfocsa/TeXtremeCV](https://github.com/yvanf
 
 <p align="right"><a href="#readme-top"></a></p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * Template:  Jérôme Nicolle
