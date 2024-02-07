@@ -79,7 +79,7 @@ The TeXtremeCV template provides a robust framework for creating a professional 
 
 # Contact
 
-Yvan FOCSA - [@0xCiroDiMarzio](https://twitter.com/0xCiroDiMarzio) - yvanfocsa@proton.me
+Yvan FOCSA - [@0xCiroDiMarzio](https://twitter.com/0xCiroDiMarzio) - github.hypocrisy598@passmail.net
 
 Project Link: [https://github.com/yvanfocsa/TeXtremeCV](https://github.com/yvanfocsa/TeXtremeCV)
 
